@@ -2,4 +2,4 @@
 
 
 
-This repository provides the implementation of BoB using the author's instructions found here: https://github.com/songhaoyu/BoB:
+This repository provides the implementation of BoB using the author's instructions found here: https://github.com/songhaoyu/BoB
